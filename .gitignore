@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Cache / models
+cache/
+models/
+*.bin
+*.pt
+*.onnx
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Streamlit cache
+.streamlit/
